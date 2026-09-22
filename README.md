@@ -20,3 +20,6 @@ Konversi dari dokumen `HTML BANK SAMPAH.docx` menjadi project React/Vite dengan 
 ## Catatan
 
 Data di halaman masih mock/static untuk mempertahankan tampilan dan alur dari desain sumber. Belum terhubung ke backend/database/IoT.
+
+# UPDATE
+Sudah terhubung backend dan ada perubahan di page laporan (jadi page laporan pemasukan dan laporan pengeluaran).
