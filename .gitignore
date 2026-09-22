@@ -1,0 +1,17 @@
+# Dependency (sangat besar, tinggal npm install)
+node_modules/
+
+# Environment variables (rahasia API key / endpoint)
+.env
+.env.local
+.env.*.local
+
+# Build output (folder hasil kompilasi)
+dist/
+build/
+
+# Logs & Cache (penyimpanan sementara Vite/npm)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vite/
